@@ -1,0 +1,8 @@
+{
+    "key":
+    {
+    "RPA_URL":"https://robotsparebinindustries.com/#/robot-order",
+    "RPA_Secret_file": "https://robotsparebinindustries.com/orders.csv" 
+    }
+
+  }
